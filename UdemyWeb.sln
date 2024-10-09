@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "UdemyWeb", "UdemyWeb\", "{DABCCAFA-FEAC-41A2-AF5B-C9C5F6CA003F}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_51908"
+		Debug.AspNetCompiler.PhysicalPath = "UdemyWeb\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_51908\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_51908"
+		Release.AspNetCompiler.PhysicalPath = "UdemyWeb\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_51908\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "51908"
+		SlnRelativePath = "UdemyWeb\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DABCCAFA-FEAC-41A2-AF5B-C9C5F6CA003F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DABCCAFA-FEAC-41A2-AF5B-C9C5F6CA003F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78ADCB18-EF37-4D52-A9BC-CC56AE987B30}
+	EndGlobalSection
+EndGlobal
